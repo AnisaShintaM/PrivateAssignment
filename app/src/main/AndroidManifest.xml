@@ -3,8 +3,15 @@
     package="id.sch.smktelkom_mlg.privateassignment.xirpl101.movieku">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <meta-data
+        android:name="DATABASE"
+        android:value="places.db" />
+    <meta-data
+        android:name="VERSION"
+        android:value="2" />
 
     <application
+        android:name="com.orm.SugarApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
