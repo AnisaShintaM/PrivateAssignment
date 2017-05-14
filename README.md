@@ -34,7 +34,7 @@ arisp.</p>
 </ul>
 </p>
 <h1>Link Aplikasi</h1>
-https://drive.google.com/a/smktelkom-mlg.sch.id/file/d/0B9DYVF9GOXNxeHlMLW9ObE1iWU0/view?usp=sharing
+https://drive.google.com/file/d/0B9DYVF9GOXNxTG9aQ1g4QjAtamM/view
 <h1>Screenshots Aplikasi</h1>
 
 
