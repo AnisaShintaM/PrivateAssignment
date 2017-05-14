@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardViewWL"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_gravity="center"
+    android:layout_marginBottom="@dimen/activity_vertical_margin"
+    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+    android:layout_marginRight="@dimen/activity_horizontal_margin"
+    android:foreground="?attr/selectableItemBackground">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textViewJudulWL"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:text="Descendants of the Sun"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textViewOverviewWL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textViewJudulWL"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingTop="8dp"
+            android:text="fsgds agnj fdgkmnw sfgl iqwrqwr wfwd pwd qfqwd wqdfqwdf asffasdf dsafsfad fasdfd fsgds agnj fdgkmnw sfgl iqwrqwr wfwd pwd qfqwd wqdfqwdf asffasdf dsafsfad fasdfd asdfsad sadfsd sdafds sdfs sdafsd dsafsf sdfasfs"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small.Inverse" />
+
+        <ImageButton
+            android:id="@+id/buttonWatch"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/textViewOverview"
+            android:tint="@android:color/white"
+            app:srcCompat="@drawable/ic_delete" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
