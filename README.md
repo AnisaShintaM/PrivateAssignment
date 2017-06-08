@@ -34,7 +34,7 @@ arisp.</p>
 </ul>
 </p>
 <h1>Link Aplikasi</h1>
-https://drive.google.com/file/d/0B9DYVF9GOXNxTG9aQ1g4QjAtamM/view
+https://mega.nz/#!pzJDDaAK!vEWQnBnLiG1xeeSZA6FZwMyuyE4pnwyvvGsiDIY5xdU
 
 **SCREEN SHOOT** <br>
 [![2.jpg](https://s15.postimg.org/3qcwlfxu3/image.jpg)](https://postimg.org/image/i9k1muqyv/)
