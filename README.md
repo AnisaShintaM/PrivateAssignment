@@ -35,7 +35,7 @@ arisp.</p>
 </p>
 
 <h1>Link Aplikasi</h1>
-https://mega.nz/#!pzJDDaAK!vEWQnBnLiG1xeeSZA6FZwMyuyE4pnwyvvGsiDIY5xdU
+https://mega.nz/#!hyJWnarC!hXEvn2uA_VT0F5OQ1Y8l0uPG1-YikDe-AFmuyzibmP8
 
 <h1>SCREEN SHOOT</h1> <br/>
 <p>
