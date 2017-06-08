@@ -33,14 +33,17 @@ arisp.</p>
 <li>Dilengkapi dengan fitur penyimpanan film yang pernah ditonton</li>
 </ul>
 </p>
+
 <h1>Link Aplikasi</h1>
 https://mega.nz/#!pzJDDaAK!vEWQnBnLiG1xeeSZA6FZwMyuyE4pnwyvvGsiDIY5xdU
 
-<h1>SCREEN SHOOT</h1> <br>
-[![2.jpg](https://s15.postimg.org/3qcwlfxu3/image.jpg)](https://postimg.org/image/i9k1muqyv/)
-[![1.jpg](https://s11.postimg.org/60ee5vgtf/image.jpg)](https://postimg.org/image/rmtemwfdr/)
-[![3.jpg](https://s28.postimg.org/mbujewcgt/image.jpg)](https://postimg.org/image/734m14is9/)
-[![4.jpg](https://s29.postimg.org/du29u1bnb/image.jpg)](https://postimg.org/image/dhavnutdf/)
-[![5.jpg](https://s9.postimg.org/kbjsrdp1b/image.jpg)](https://postimg.org/image/6541w5e63/)
+<h1>SCREEN SHOOT</h1> <br/>
+<p>
+   <img src="https://s15.postimg.org/3qcwlfxu3/image.jpg" width="40%" height="40%">
+   <img src="https://s11.postimg.org/60ee5vgtf/image.jpg" width="40%" height="40%">
+   <img src="https://s28.postimg.org/mbujewcgt/image.jpg" width="40%" height="40%">
+   <img src="https://s29.postimg.org/du29u1bnb/image.jpg" width="40%" height="40%">
+   <img src="https://s9.postimg.org/kbjsrdp1b/image.jpg" width="40%" height="40%">
+</p>
 
 
